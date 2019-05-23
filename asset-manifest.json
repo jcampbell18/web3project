@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/web3project/static/css/main.a234b58e.chunk.css",
+    "main.js": "/web3project/static/js/main.91134968.chunk.js",
+    "main.js.map": "/web3project/static/js/main.91134968.chunk.js.map",
+    "runtime~main.js": "/web3project/static/js/runtime~main.6284cdd1.js",
+    "runtime~main.js.map": "/web3project/static/js/runtime~main.6284cdd1.js.map",
+    "static/js/2.2668f2aa.chunk.js": "/web3project/static/js/2.2668f2aa.chunk.js",
+    "static/js/2.2668f2aa.chunk.js.map": "/web3project/static/js/2.2668f2aa.chunk.js.map",
+    "index.html": "/web3project/index.html",
+    "precache-manifest.b84f1655b0bb4c7731e1c1c4532d59c6.js": "/web3project/precache-manifest.b84f1655b0bb4c7731e1c1c4532d59c6.js",
+    "service-worker.js": "/web3project/service-worker.js",
+    "static/css/main.a234b58e.chunk.css.map": "/web3project/static/css/main.a234b58e.chunk.css.map",
+    "static/media/App.css": "/web3project/static/media/reel.2858248d.jpg"
+  }
+}
